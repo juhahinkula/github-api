@@ -23,6 +23,6 @@ Add a text input and a "Search" button.
 
 When the button is clicked use enterd keyword in fetch. Update the list to show results based on the user's search term.
 
-Handle empty input and show a message or do nothing.
+Handle empty input and show a message if keyword is empty.
 
 Example output:
