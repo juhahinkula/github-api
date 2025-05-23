@@ -26,3 +26,11 @@ When the button is clicked use enterd keyword in fetch. Update the list to show 
 Handle empty input and show a message if keyword is empty.
 
 Example output:
+
+## Bonus step:
+Extract the fetch logic into a custom React hook for reusability and cleaner components.
+
+Or
+
+Use some fetch library such as [TanStack Query](https://tanstack.com/query/latest). This approach gives automatic caching, loading states, retries, and more.
+
